@@ -1,0 +1,9 @@
+__pycache__/
+config.py
+Resources/credits.csv
+Resources/keywords.csv
+Resources/links.csv
+Resources/links_small.csv
+Resources/movies_metadata.csv
+Resources/ratings.csv
+Resources/ratings_small.csv
